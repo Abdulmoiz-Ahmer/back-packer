@@ -1,10 +1,55 @@
-# README
+# BagPack Extensions Pack
 
-## "bag-pack"
+<!-- [![Version](https://vsmarketplacebadge.apphb.com/version/codeSTACKr.superhero-extensions.svg?subject=SuperHero%20Extensions&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/codeSTACKr.superhero-extensions.svg?label=Ratings&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions&ssr=false#review-details)
+[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f)](http://vsCodeHero.com) -->
 
-This extension pack contains 108 useful extensions that one might need to while programming.
+Thanks for checking out my VS Code BagPack extension pack.
 
-For simplicity just install the extension pack and add the below settings vscode.
+## Included Extensions
+
+### Auto Rename Tag
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_autorename.jpg" alt="Auto Rename Tag" width="60%" />
+
+This one automatically renames the corresponding tag that you modify. This is just a helpful time-saver.
+
+### Prettier
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_prettier.jpg" alt="Prettier" width="60%" />
+
+This extension keeps your code formatted and uniform throughout.
+
+### Live Server
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_liveserver.jpg" alt="Live Server" width="60%" />
+
+This extension sets up a local web server so that you can see the changes made in real-time without having to reload. It’s a must-have for web development.
+
+### Better Comments
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_bettercomments.jpg" alt="Better Comments" width="60%" />
+
+This extension helps to make your comments stand out.
+
+### HTML CSS Support
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_htmlcsssupport.jpg" alt="HTML CSS Support" width="60%" />
+
+Here are a few key features this extension adds:
+
+- Class attribute completion.
+- Id attribute completion.
+- Scans workspace folder for CSS and SCSS files.
+- Supports remote css files.
+
+### GitLens
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/gitlens.jpg" alt="GitLens" width="60%" />
+
+GitLens supercharges the Git functionality within VS Code. Easily see who made changes to code, when they made the changes, and why they made them.
+
+## Settings
 
 ```
 {
@@ -105,7 +150,4 @@ For simplicity just install the extension pack and add the below settings vscode
   "go.toolsManagement.autoUpdate": true,
   "tabnine.experimentalAutoImports": true
 }
-
 ```
-
-**Enjoy!**
