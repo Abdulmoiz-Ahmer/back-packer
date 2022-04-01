@@ -1,8 +1,8 @@
 {
-  "name": "bag-pack",
+  "name": "bag-packer",
   "displayName": "Bag Packer",
   "description": "All useful extensions that one might need",
-  "publisher": "Abdulmoiz Ahmer",
+  "publisher": "Abdulmoiz-Ahmer",
   "repository": "https://github.com/Abdulmoiz-Ahmer/bag-pack.git",
   "version": "0.0.1",
   "license": "MIT",
