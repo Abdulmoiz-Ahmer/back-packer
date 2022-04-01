@@ -1,7 +1,7 @@
 {
   "name": "bag-pack",
-  "displayName": "Bag Pack",
-  "description": "All usefull extensions that one might need",
+  "displayName": "Bag Packer",
+  "description": "All useful extensions that one might need",
   "publisher": "Abdulmoiz Ahmer",
   "version": "0.0.1",
   "engines": {
@@ -110,7 +110,6 @@
     "neptunedesign.vs-html-to-css",
     "deerawan.vscode-faker",
     "zxh404.vscode-proto3",
-    "adrianwilczynski.alpine-js-intellisense",
     "jcbuisson.vue",
     "johnsoncodehk.volar"
   ]
