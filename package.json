@@ -3,7 +3,9 @@
   "displayName": "Bag Packer",
   "description": "All useful extensions that one might need",
   "publisher": "Abdulmoiz Ahmer",
+  "repository": "https://github.com/Abdulmoiz-Ahmer/bag-pack.git",
   "version": "0.0.1",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -111,6 +113,11 @@
     "deerawan.vscode-faker",
     "zxh404.vscode-proto3",
     "jcbuisson.vue",
-    "johnsoncodehk.volar"
+    "johnsoncodehk.volar",
+    "mindaro.mindaro",
+    "mikestead.dotenv",
+    "Janne252.fontawesome-autocomplete",
+    "SimonSiefke.svg-preview",
+    "adpyke.codesnap"
   ]
 }
