@@ -1,15 +1,15 @@
-# BagPacker Extensions Pack <img src="images/backpack.png" width="50px" />
+# backPacker Extensions Pack <img src="images/backpack.png" width="50px" />
 
 <!-- [![Version](https://vsmarketplacebadge.apphb.com/version/codeSTACKr.superhero-extensions.svg?subject=SuperHero%20Extensions&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/codeSTACKr.superhero-extensions.svg?label=Ratings&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions&ssr=false#review-details)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f)](http://vsCodeHero.com) -->
 
-Thanks for checking out my VS Code BagPack extension pack.
+Thanks for checking out my VS Code backPack extension pack.
 
 ## Install Using Command
 
 ```
-code --install-extension bag-packer-0.0.2.vsix
+code --install-extension back-packer-0.0.2.vsix
 ```
 
 ## Settings

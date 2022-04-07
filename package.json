@@ -1,6 +1,6 @@
 {
-  "name": "bag-packer",
-  "displayName": "Bag Packer",
+  "name": "back-packer",
+  "displayName": "back Packer",
   "version": "0.0.2",
   "publisher": "Abdulmoiz-Ahmer",
   "description": "All useful extensions that one might for web, native mobile and blockchain development",
@@ -21,10 +21,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Abdulmoiz-Ahmer/bag-pack.git"
+    "url": "https://github.com/Abdulmoiz-Ahmer/back-pack.git"
   },
   "bugs": {
-    "url": "https://github.com/Abdulmoiz-Ahmer/bag-packer/issues",
+    "url": "https://github.com/Abdulmoiz-Ahmer/back-packer/issues",
     "email": "abdulmoizahmer1996@gmail.com"
   },
   "preview": true,
