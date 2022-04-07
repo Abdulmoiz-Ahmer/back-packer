@@ -29,6 +29,7 @@
   },
   "preview": true,
   "extensionPack": [
+    "cweijan.vscode-mysql-client2",
     "apollographql.vscode-apollo",
     "steoates.autoimport",
     "formulahendry.auto-rename-tag",
