@@ -6,60 +6,10 @@
 
 Thanks for checking out my VS Code BagPack extension pack.
 
-## Included Extensions
-
-
-### Apollo GraphQL
-
-
-Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
-
-
-### Auto Rename Tag
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_autorename.jpg" alt="Auto Rename Tag" width="60%" />
-
-This one automatically renames the corresponding tag that you modify. This is just a helpful time-saver.
-
-### Prettier
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_prettier.jpg" alt="Prettier" width="60%" />
-
-This extension keeps your code formatted and uniform throughout.
-
-### Live Server
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_liveserver.jpg" alt="Live Server" width="60%" />
-
-This extension sets up a local web server so that you can see the changes made in real-time without having to reload. It’s a must-have for web development.
-
-### Better Comments
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_bettercomments.jpg" alt="Better Comments" width="60%" />
-
-This extension helps to make your comments stand out.
-
-### HTML CSS Support
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_htmlcsssupport.jpg" alt="HTML CSS Support" width="60%" />
-
-Here are a few key features this extension adds:
-
-- Class attribute completion.
-- Id attribute completion.
-- Scans workspace folder for CSS and SCSS files.
-- Supports remote css files.
-
-### GitLens
-
-<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/gitlens.jpg" alt="GitLens" width="60%" />
-
-GitLens supercharges the Git functionality within VS Code. Easily see who made changes to code, when they made the changes, and why they made them.
-
-## Install
+## Install Using
 
 ```
-code --install-extension bag-packer-0.0.1.vsix
+code --install-extension bag-packer-0.0.2.vsix
 ```
 
 ## Settings
@@ -164,3 +114,57 @@ code --install-extension bag-packer-0.0.1.vsix
   "tabnine.experimentalAutoImports": true
 }
 ```
+
+## Included Extensions
+
+
+### Apollo GraphQL
+
+
+Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
+
+
+### Auto Rename Tag
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_autorename.jpg" alt="Auto Rename Tag" width="60%" />
+
+This one automatically renames the corresponding tag that you modify. This is just a helpful time-saver.
+
+### Prettier
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_prettier.jpg" alt="Prettier" width="60%" />
+
+This extension keeps your code formatted and uniform throughout.
+
+### Live Server
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_liveserver.jpg" alt="Live Server" width="60%" />
+
+This extension sets up a local web server so that you can see the changes made in real-time without having to reload. It’s a must-have for web development.
+
+### Better Comments
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_bettercomments.jpg" alt="Better Comments" width="60%" />
+
+This extension helps to make your comments stand out.
+
+### HTML CSS Support
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_htmlcsssupport.jpg" alt="HTML CSS Support" width="60%" />
+
+Here are a few key features this extension adds:
+
+- Class attribute completion.
+- Id attribute completion.
+- Scans workspace folder for CSS and SCSS files.
+- Supports remote css files.
+
+### GitLens
+
+<img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/gitlens.jpg" alt="GitLens" width="60%" />
+
+GitLens supercharges the Git functionality within VS Code. Easily see who made changes to code, when they made the changes, and why they made them.
+
+
+
+
