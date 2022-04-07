@@ -6,7 +6,7 @@
 
 Thanks for checking out my VS Code backPack extension pack.
 
-## Remove all existing extensions(Optional)
+## Remove all existing extensions (optional)
 ```
 rm -rf ~/.vscode/extensions
 ```
@@ -17,7 +17,7 @@ rm -rf ~/.vscode/extensions
 code --install-extension back-packer-0.0.2.vsix
 ```
 
-## Settings
+## Settings (optional)
 
 ```
 {
