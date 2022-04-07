@@ -11,7 +11,7 @@ rm -rf ~/.vscode/extensions
 ## Install From Cloning Repository
 
 ```
-code --install-extension back-packer-0.0.4.vsix
+code --install-extension back-packer-0.0.1.vsix
 ```
 
 ## Install From marketplace
