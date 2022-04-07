@@ -8,6 +8,13 @@ Thanks for checking out my VS Code BagPack extension pack.
 
 ## Included Extensions
 
+
+### Apollo GraphQL
+
+
+Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
+
+
 ### Auto Rename Tag
 
 <img src="https://raw.githubusercontent.com/codeSTACKr/superhero-extensions/master/images/ext_autorename.jpg" alt="Auto Rename Tag" width="60%" />
