@@ -128,6 +128,8 @@ code --install-extension back-packer-0.0.3.vsix
 
 Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform
 
+<img src="https://raw.githubusercontent.com/Abdulmoiz-Ahmer/back-packer-images/master/apollographql.png" alt="Auto Rename Tag" width="60%" />
+
 
 ### Auto Rename Tag
 
