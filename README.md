@@ -49,6 +49,12 @@ Here are a few key features this extension adds:
 
 GitLens supercharges the Git functionality within VS Code. Easily see who made changes to code, when they made the changes, and why they made them.
 
+## Install
+
+```
+code --install-extension bag-packer-0.0.1.vsix
+```
+
 ## Settings
 
 ```
