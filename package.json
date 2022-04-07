@@ -1,17 +1,33 @@
 {
   "name": "bag-packer",
   "displayName": "Bag Packer",
-  "description": "All useful extensions that one might need",
+  "version": "0.0.2",
   "publisher": "Abdulmoiz-Ahmer",
-  "repository": "https://github.com/Abdulmoiz-Ahmer/bag-pack.git",
-  "version": "0.0.1",
-  "license": "MIT",
-  "engines": {
-    "vscode": "^1.66.0"
+  "description": "All useful extensions that one might for web, native mobile and blockchain development",
+  "author": {
+    "name": "Abdulmoiz Ahmer"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "images/backpack.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdulmoiz-Ahmer/bag-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Abdulmoiz-Ahmer/bag-packer/issues",
+    "email": "abdulmoizahmer1996@gmail.com"
+  },
+  "preview": true,
   "extensionPack": [
     "publisher.extensionName",
     "apollographql.vscode-apollo",
@@ -19,7 +35,7 @@
     "formulahendry.auto-rename-tag",
     "mgmcdermott.vscode-language-babel",
     "shakram02.bash-beautify",
-    "install bungcip.better-toml",
+    "bungcip.better-toml",
     "streetsidesoftware.code-spell-checker",
     "wmaurer.change-case",
     "aaron-bond.better-comments",
@@ -69,7 +85,7 @@
     "MS-vsliveshare.vsliveshare",
     "bierner.markdown-preview-github-styles",
     "josee9988.minifyall",
-    "install mongodb.mongodb-vscode",
+    "mongodb.mongodb-vscode",
     "stringham.move-ts",
     "bigous.vscode-multi-line-tricks",
     "prashaantt.node-tdd",
@@ -119,5 +135,9 @@
     "Janne252.fontawesome-autocomplete",
     "SimonSiefke.svg-preview",
     "adpyke.codesnap"
+  ],
+  "keywords": [
+    "Extension Pack",
+    "Developers Extension Pack"
   ]
 }
