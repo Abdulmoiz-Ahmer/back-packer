@@ -9,7 +9,7 @@ Thanks for checking out my VS Code backPack extension pack.
 ## Install Using Command
 
 ```
-code --install-extension back-packer-0.0.2.vsix
+code --install-extension back-packer-0.0.1.vsix
 ```
 
 ## Settings

@@ -1,8 +1,8 @@
 {
   "name": "back-packer",
-  "displayName": "back Packer",
+  "displayName": "Back Packer",
   "version": "0.0.2",
-  "publisher": "Abdulmoiz-Ahmer",
+  "publisher": "AbdulmoizAhmer",
   "description": "All useful extensions that one might for web, native mobile and blockchain development",
   "author": {
     "name": "Abdulmoiz Ahmer"
@@ -29,7 +29,6 @@
   },
   "preview": true,
   "extensionPack": [
-    "publisher.extensionName",
     "apollographql.vscode-apollo",
     "steoates.autoimport",
     "formulahendry.auto-rename-tag",
@@ -137,7 +136,15 @@
     "adpyke.codesnap"
   ],
   "keywords": [
-    "Extension Pack",
-    "Developers Extension Pack"
+    "web development extension pack",
+    "mobile development extension pack",
+    "blockchain development extension pack",
+    "web development esstentials",
+    "mobile development esstentials",
+    "blockchain development esstentials",
+    "back pack",
+    "back packer",
+    "extension pack",
+    "developers extension pack"
   ]
 }
