@@ -6,7 +6,7 @@
 
 Thanks for checking out my VS Code BagPack extension pack.
 
-## Install Using
+## Install Using Command
 
 ```
 code --install-extension bag-packer-0.0.2.vsix
