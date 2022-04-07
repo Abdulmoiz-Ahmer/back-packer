@@ -8,7 +8,7 @@ Thanks for checking out my VS Code backPack extension pack.
 
 ## Remove all existing extensions(Optional)
 ```
-rm -rf ~/.vscode/extensions^C
+rm -rf ~/.vscode/extensions
 ```
 
 ## Install Using Command
