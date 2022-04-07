@@ -1,4 +1,4 @@
-# backPacker Extensions Pack <img src="images/backpack.png" width="50px" />
+# BackPacker Extensions Pack <img src="images/backpack.png" width="50px" />
 
 <!-- [![Version](https://vsmarketplacebadge.apphb.com/version/codeSTACKr.superhero-extensions.svg?subject=SuperHero%20Extensions&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/codeSTACKr.superhero-extensions.svg?label=Ratings&colorA=09131b&colorB=ff652f)](https://marketplace.visualstudio.com/items?itemName=codeSTACKr.superhero-extensions&ssr=false#review-details)
@@ -6,13 +6,18 @@
 
 Thanks for checking out my VS Code backPack extension pack.
 
+## Remove all existing extensions (optional)
+```
+rm -rf ~/.vscode/extensions
+```
+
 ## Install Using Command
 
 ```
 code --install-extension back-packer-0.0.1.vsix
 ```
 
-## Settings
+## Settings (optional)
 
 ```
 {
