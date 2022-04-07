@@ -14,7 +14,7 @@ rm -rf ~/.vscode/extensions
 ## Install Using Command
 
 ```
-code --install-extension back-packer-0.0.1.vsix
+code --install-extension back-packer-0.0.3.vsix
 ```
 
 ## Settings (optional)
