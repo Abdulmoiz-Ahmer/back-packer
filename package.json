@@ -1,7 +1,7 @@
 {
   "name": "back-packer",
   "displayName": "Back Packer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AbdulmoizAhmer",
   "description": "All useful extensions that one might for web, native mobile and blockchain development",
   "author": {
@@ -29,6 +29,7 @@
   },
   "preview": true,
   "extensionPack": [
+    "aojiru-ts.vscode-uncss",
     "cweijan.vscode-mysql-client2",
     "apollographql.vscode-apollo",
     "steoates.autoimport",
