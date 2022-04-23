@@ -11,7 +11,7 @@ rm -rf ~/.vscode/extensions
 ## Install From Cloning Repository
 
 ```
-code --install-extension back-packer-0.0.2.vsix
+code --install-extension back-packer-0.0.3.vsix
 ```
 
 ## Install From marketplace
@@ -202,11 +202,11 @@ Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the curre
 
 Spelling checker for source code.
 
-### CodeSnap
+<!-- ### CodeSnap
 
 <img src="https://raw.githubusercontent.com/Abdulmoiz-Ahmer/back-packer-images/master/codesnap.png" alt="Auto Rename Tag" width="60%" height="60%" />
 
-Take beautiful screenshots of your code.
+Take beautiful screenshots of your code. -->
 
 ### Color Highlight
 
@@ -300,11 +300,11 @@ A convenient way of creating, duplicating, moving, renaming, deleting files and 
 
 Autocomplete & preview Font Awesome icons in any language.
 
-### Git Blame
+<!-- ### Git Blame
 
 <img src="https://raw.githubusercontent.com/Abdulmoiz-Ahmer/back-packer-images/master/gitblame.png" alt="Auto Rename Tag" width="60%" height="60%" />
 
-See git blame information in the status bar.
+See git blame information in the status bar. -->
 
 ### Git Extension Pack
 
@@ -468,11 +468,11 @@ Develop, deploy and debug Kubernetes applications.
 
 Compile Sass or Scss to CSS at realtime with live browser reload.
 
-### Live Server
+<!-- ### Live Server
 
 <img src="https://raw.githubusercontent.com/Abdulmoiz-Ahmer/back-packer-images/master/liveserver.png" alt="HTML CSS Support" width="60%" height="60%" />
 
-Launch a development local Server with live reload feature for static & dynamic pages.
+Launch a development local Server with live reload feature for static & dynamic pages. -->
 
 ### Live Share
 
