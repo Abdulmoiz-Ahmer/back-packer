@@ -29,6 +29,7 @@
   },
   "preview": true,
   "extensionPack": [
+    "belfz.search-crates-io",
     "aojiru-ts.vscode-uncss",
     "cweijan.vscode-mysql-client2",
     "apollographql.vscode-apollo",
