@@ -29,6 +29,8 @@
   },
   "preview": true,
   "extensionPack": [
+    "usernamehw.errorlens",
+    "vadimcn.vscode-lldb",
     "belfz.search-crates-io",
     "aojiru-ts.vscode-uncss",
     "cweijan.vscode-mysql-client2",
@@ -57,7 +59,6 @@
     "esbenp.prettier-vscode",
     "sleistner.vscode-fileutils",
     "alefragnani.Bookmarks",
-    "waderyan.gitblame",
     "donjayamanne.git-extension-pack",
     "GitHub.vscode-pull-request-github",
     "golang.Go",
@@ -84,7 +85,6 @@
     "ritwickdey.live-sass",
     "ms-kubernetes-tools.vscode-kubernetes-tools",
     "ritwickdey.LiveServer",
-    "MS-vsliveshare.vsliveshare",
     "bierner.markdown-preview-github-styles",
     "josee9988.minifyall",
     "mongodb.mongodb-vscode",
@@ -98,7 +98,6 @@
     "azemoh.one-monokai",
     "techer.open-in-browser",
     "quicktype.quicktype",
-    "johnpapa.vscode-peacock",
     "rebornix.project-snippets",
     "sainoba.px-to-rem",
     "WallabyJs.quokka-vscode",
@@ -136,7 +135,6 @@
     "mikestead.dotenv",
     "Janne252.fontawesome-autocomplete",
     "SimonSiefke.svg-preview",
-    "adpyke.codesnap"
   ],
   "keywords": [
     "web development extension pack",
@@ -154,6 +152,19 @@
     "bagpack",
     "bagpacker",
     "extension pack",
-    "developers extension pack"
+    "developers extension pack",
+    "rust extension pack",
+    "javascript extension pack",
+    "golang extension pack",
+    "nodejs extension pack",
+    "solidity extension pack",
+    "rust",
+    "golang",
+    "web",
+    "solidity",
+    "mobile",
+    "blockchain",
+    "ethereurm",
+    "solana"
   ]
 }
